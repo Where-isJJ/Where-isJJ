@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Where-isJJ
 - 💞️ I really appreciate tips and advice
-- 📫 How to reach me: err...?
+- 📫 How to reach me: whereisJJ.xd@gmail.com
 
 <!---
 Where-isJJ/Where-isJJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
